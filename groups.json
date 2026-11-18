@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "name": "Python Beginners Circle",
+    "subject": "Python",
+    "description": "Weekly practice for Python basics. We solve small problems together and review each other's code.",
+    "topics": [
+      "Loops",
+      "Functions",
+      "Lists & Dictionaries",
+      "File Handling"
+    ],
+    "day_type": "Monday",
+    "time": "18:00",
+    "mode": "Online",
+    "max_members": 8,
+    "creator_name": "Aarav Sharma",
+    "creator_email": "aarav.sharma@example.com",
+    "members": [
+      {
+        "name": "Aarav Sharma",
+        "email": "aarav.sharma@example.com"
+      },
+      {
+        "name": "Priya Verma",
+        "email": "priya.verma@example.com"
+      },
+      {
+        "name": "Rohan Gupta",
+        "email": "rohan.gupta@example.com"
+      },
+      {
+        "name": "Ananya Singh",
+        "email": "ananya.singh@example.com"
+      }
+    ],
+    "created_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 2,
+    "name": "Flask & Web APIs Lab",
+    "subject": "Web Development",
+    "description": "Build small Flask projects together and learn how fetch() talks to a Python backend.",
+    "topics": [
+      "Flask Routes",
+      "JSON APIs",
+      "HTML & CSS",
+      "JavaScript fetch"
+    ],
+    "day_type": "Tuesday",
+    "time": "19:30",
+    "mode": "Online",
+    "max_members": 6,
+    "creator_name": "Rohan Gupta",
+    "creator_email": "rohan.gupta@example.com",
+    "members": [
+      {
+        "name": "Rohan Gupta",
+        "email": "rohan.gupta@example.com"
+      },
+      {
+        "name": "Kabir Mehta",
+        "email": "kabir.mehta@example.com"
+      },
+      {
+        "name": "Ishita Rao",
+        "email": "ishita.rao@example.com"
+      }
+    ],
+    "created_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 3,
+    "name": "Calculus Crunch Time",
+    "subject": "Mathematics",
+    "description": "Exam-focused revision of limits, derivatives and integrals with previous year papers.",
+    "topics": [
+      "Limits",
+      "Derivatives",
+      "Integration",
+      "Differential Equations"
+    ],
+    "day_type": "Wednesday",
+    "time": "09:30",
+    "mode": "Offline",
+    "max_members": 10,
+    "creator_name": "Priya Verma",
+    "creator_email": "priya.verma@example.com",
+    "members": [
+      {
+        "name": "Priya Verma",
+        "email": "priya.verma@example.com"
+      },
+      {
+        "name": "Vivaan Joshi",
+        "email": "vivaan.joshi@example.com"
+      },
+      {
+        "name": "Diya Nair",
+        "email": "diya.nair@example.com"
+      },
+      {
+        "name": "Arjun Patel",
+        "email": "arjun.patel@example.com"
+      },
+      {
+        "name": "Meera Iyer",
+        "email": "meera.iyer@example.com"
+      }
+    ],
+    "created_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 4,
+    "name": "Physics Problem Solvers",
+    "subject": "Physics",
+    "description": "Group solving of numericals on mechanics, optics and modern physics.",
+    "topics": [
+      "Mechanics",
+      "Optics",
+      "Waves",
+      "Quantum Basics"
+    ],
+    "day_type": "Saturday",
+    "time": "15:00",
+    "mode": "Offline",
+    "max_members": 6,
+    "creator_name": "Ananya Singh",
+    "creator_email": "ananya.singh@example.com",
+    "members": [
+      {
+        "name": "Ananya Singh",
+        "email": "ananya.singh@example.com"
+      },
+      {
+        "name": "Siddharth Das",
+        "email": "siddharth.das@example.com"
+      },
+      {
+        "name": "Neha Kapoor",
+        "email": "neha.kapoor@example.com"
+      },
+      {
+        "name": "Tanvi Reddy",
+        "email": "tanvi.reddy@example.com"
+      },
+      {
+        "name": "Yash Malhotra",
+        "email": "yash.malhotra@example.com"
+      },
+      {
+        "name": "Sara Khan",
+        "email": "sara.khan@example.com"
+      }
+    ],
+    "created_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 5,
+    "name": "Data Science with Pandas",
+    "subject": "Data Science",
+    "description": "Hands-on practice with Pandas, NumPy and Matplotlib using small open datasets.",
+    "topics": [
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Data Cleaning"
+    ],
+    "day_type": "Sunday",
+    "time": "20:00",
+    "mode": "Online",
+    "max_members": 8,
+    "creator_name": "Kabir Mehta",
+    "creator_email": "kabir.mehta@example.com",
+    "members": [
+      {
+        "name": "Kabir Mehta",
+        "email": "kabir.mehta@example.com"
+      },
+      {
+        "name": "Aarav Sharma",
+        "email": "aarav.sharma@example.com"
+      },
+      {
+        "name": "Ishita Rao",
+        "email": "ishita.rao@example.com"
+      },
+      {
+        "name": "Dev Bansal",
+        "email": "dev.bansal@example.com"
+      }
+    ],
+    "created_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 6,
+    "name": "Machine Learning Starters",
+    "subject": "Machine Learning",
+    "description": "Understand regression, classification and clustering step by step with simple examples.",
+    "topics": [
+      "Linear Regression",
+      "Classification",
+      "Clustering",
+      "Model Evaluation"
+    ],
+    "day_type": "Thursday",
+    "time": "21:30",
+    "mode": "Online",
+    "max_members": 5,
+    "creator_name": "Ishita Rao",
+    "creator_email": "ishita.rao@example.com",
+    "members": [
+      {
+        "name": "Ishita Rao",
+        "email": "ishita.rao@example.com"
+      },
+      {
+        "name": "Vivaan Joshi",
+        "email": "vivaan.joshi@example.com"
+      },
+      {
+        "name": "Meera Iyer",
+        "email": "meera.iyer@example.com"
+      },
+      {
+        "name": "Yash Malhotra",
+        "email": "yash.malhotra@example.com"
+      },
+      {
+        "name": "Rohan Gupta",
+        "email": "rohan.gupta@example.com"
+      }
+    ],
+    "created_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 7,
+    "name": "Computer Networks Revision",
+    "subject": "Computer Networks",
+    "description": "Quick revision of the OSI model, TCP/IP, routing and subnetting before semester exams.",
+    "topics": [
+      "OSI Model",
+      "TCP/IP",
+      "Subnetting",
+      "Routing"
+    ],
+    "day_type": "Friday",
+    "time": "11:00",
+    "mode": "Offline",
+    "max_members": 12,
+    "creator_name": "Meera Iyer",
+    "creator_email": "meera.iyer@example.com",
+    "members": [
+      {
+        "name": "Meera Iyer",
+        "email": "meera.iyer@example.com"
+      },
+      {
+        "name": "Priya Verma",
+        "email": "priya.verma@example.com"
+      },
+      {
+        "name": "Arjun Patel",
+        "email": "arjun.patel@example.com"
+      }
+    ],
+    "created_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 8,
+    "name": "DBMS & Normalization Club",
+    "subject": "Database Systems",
+    "description": "Discuss ER diagrams, normalization and SQL queries with worked examples.",
+    "topics": [
+      "ER Diagrams",
+      "Normalization",
+      "SQL Queries",
+      "Transactions"
+    ],
+    "day_type": "Tuesday",
+    "time": "16:30",
+    "mode": "Offline",
+    "max_members": 8,
+    "creator_name": "Diya Nair",
+    "creator_email": "diya.nair@example.com",
+    "members": [
+      {
+        "name": "Diya Nair",
+        "email": "diya.nair@example.com"
+      },
+      {
+        "name": "Ananya Singh",
+        "email": "ananya.singh@example.com"
+      },
+      {
+        "name": "Siddharth Das",
+        "email": "siddharth.das@example.com"
+      },
+      {
+        "name": "Tanvi Reddy",
+        "email": "tanvi.reddy@example.com"
+      }
+    ],
+    "created_at": "2026-11-10 10:00"
+  }
+]

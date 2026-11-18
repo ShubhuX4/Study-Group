@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1,
+    "group_id": 1,
+    "group_name": "Python Beginners Circle",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "role": "Creator",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 2,
+    "group_id": 1,
+    "group_name": "Python Beginners Circle",
+    "name": "Priya Verma",
+    "email": "priya.verma@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 3,
+    "group_id": 1,
+    "group_name": "Python Beginners Circle",
+    "name": "Rohan Gupta",
+    "email": "rohan.gupta@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 4,
+    "group_id": 1,
+    "group_name": "Python Beginners Circle",
+    "name": "Ananya Singh",
+    "email": "ananya.singh@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 5,
+    "group_id": 2,
+    "group_name": "Flask & Web APIs Lab",
+    "name": "Rohan Gupta",
+    "email": "rohan.gupta@example.com",
+    "role": "Creator",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 6,
+    "group_id": 2,
+    "group_name": "Flask & Web APIs Lab",
+    "name": "Kabir Mehta",
+    "email": "kabir.mehta@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 7,
+    "group_id": 2,
+    "group_name": "Flask & Web APIs Lab",
+    "name": "Ishita Rao",
+    "email": "ishita.rao@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 8,
+    "group_id": 3,
+    "group_name": "Calculus Crunch Time",
+    "name": "Priya Verma",
+    "email": "priya.verma@example.com",
+    "role": "Creator",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 9,
+    "group_id": 3,
+    "group_name": "Calculus Crunch Time",
+    "name": "Vivaan Joshi",
+    "email": "vivaan.joshi@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 10,
+    "group_id": 3,
+    "group_name": "Calculus Crunch Time",
+    "name": "Diya Nair",
+    "email": "diya.nair@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 11,
+    "group_id": 3,
+    "group_name": "Calculus Crunch Time",
+    "name": "Arjun Patel",
+    "email": "arjun.patel@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 12,
+    "group_id": 3,
+    "group_name": "Calculus Crunch Time",
+    "name": "Meera Iyer",
+    "email": "meera.iyer@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 13,
+    "group_id": 4,
+    "group_name": "Physics Problem Solvers",
+    "name": "Ananya Singh",
+    "email": "ananya.singh@example.com",
+    "role": "Creator",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 14,
+    "group_id": 4,
+    "group_name": "Physics Problem Solvers",
+    "name": "Siddharth Das",
+    "email": "siddharth.das@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 15,
+    "group_id": 4,
+    "group_name": "Physics Problem Solvers",
+    "name": "Neha Kapoor",
+    "email": "neha.kapoor@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 16,
+    "group_id": 4,
+    "group_name": "Physics Problem Solvers",
+    "name": "Tanvi Reddy",
+    "email": "tanvi.reddy@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 17,
+    "group_id": 4,
+    "group_name": "Physics Problem Solvers",
+    "name": "Yash Malhotra",
+    "email": "yash.malhotra@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 18,
+    "group_id": 4,
+    "group_name": "Physics Problem Solvers",
+    "name": "Sara Khan",
+    "email": "sara.khan@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 19,
+    "group_id": 5,
+    "group_name": "Data Science with Pandas",
+    "name": "Kabir Mehta",
+    "email": "kabir.mehta@example.com",
+    "role": "Creator",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 20,
+    "group_id": 5,
+    "group_name": "Data Science with Pandas",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 21,
+    "group_id": 5,
+    "group_name": "Data Science with Pandas",
+    "name": "Ishita Rao",
+    "email": "ishita.rao@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 22,
+    "group_id": 5,
+    "group_name": "Data Science with Pandas",
+    "name": "Dev Bansal",
+    "email": "dev.bansal@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 23,
+    "group_id": 6,
+    "group_name": "Machine Learning Starters",
+    "name": "Ishita Rao",
+    "email": "ishita.rao@example.com",
+    "role": "Creator",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 24,
+    "group_id": 6,
+    "group_name": "Machine Learning Starters",
+    "name": "Vivaan Joshi",
+    "email": "vivaan.joshi@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 25,
+    "group_id": 6,
+    "group_name": "Machine Learning Starters",
+    "name": "Meera Iyer",
+    "email": "meera.iyer@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 26,
+    "group_id": 6,
+    "group_name": "Machine Learning Starters",
+    "name": "Yash Malhotra",
+    "email": "yash.malhotra@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 27,
+    "group_id": 6,
+    "group_name": "Machine Learning Starters",
+    "name": "Rohan Gupta",
+    "email": "rohan.gupta@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 28,
+    "group_id": 7,
+    "group_name": "Computer Networks Revision",
+    "name": "Meera Iyer",
+    "email": "meera.iyer@example.com",
+    "role": "Creator",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 29,
+    "group_id": 7,
+    "group_name": "Computer Networks Revision",
+    "name": "Priya Verma",
+    "email": "priya.verma@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 30,
+    "group_id": 7,
+    "group_name": "Computer Networks Revision",
+    "name": "Arjun Patel",
+    "email": "arjun.patel@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 31,
+    "group_id": 8,
+    "group_name": "DBMS & Normalization Club",
+    "name": "Diya Nair",
+    "email": "diya.nair@example.com",
+    "role": "Creator",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 32,
+    "group_id": 8,
+    "group_name": "DBMS & Normalization Club",
+    "name": "Ananya Singh",
+    "email": "ananya.singh@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 33,
+    "group_id": 8,
+    "group_name": "DBMS & Normalization Club",
+    "name": "Siddharth Das",
+    "email": "siddharth.das@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  },
+  {
+    "id": 34,
+    "group_id": 8,
+    "group_name": "DBMS & Normalization Club",
+    "name": "Tanvi Reddy",
+    "email": "tanvi.reddy@example.com",
+    "role": "Member",
+    "joined_at": "2026-11-10 10:00"
+  }
+]
